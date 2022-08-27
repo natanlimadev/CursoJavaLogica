@@ -17,7 +17,7 @@ public class Uri1014 {
 			
 			total = X/Y;
 			
-			System.out.printf("%.3f km/l", total);
+			System.out.printf("%.3f km/l%n", total);
 			
 		sc.close();
 		
